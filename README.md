@@ -52,7 +52,7 @@ Order Amount:The order made by each members.
 <img width="467" alt="image" src="https://github.com/monsurah-jim/RETAIL_TRANSACTION_REPORT_ANALYSIS/assets/148765480/85c00ef2-dfe5-4952-a52c-8de4a36c4fc1">
 
 # 2) What is the hightest transaction made in the month of june?
-## The highest transaction made in t=june was 5691
+## The highest transaction made in june was 5691
 <img width="368" alt="image" src="https://github.com/monsurah-jim/RETAIL_TRANSACTION_REPORT_ANALYSIS/assets/148765480/4b74d345-c0c4-4268-9ef4-a64d534dd948">
 
 # 3) What is the total order amount in the month of january and which make the highest order between january and december?
@@ -90,7 +90,7 @@ Order Amount:The order made by each members.
 <img width="383" alt="image" src="https://github.com/monsurah-jim/RETAIL_TRANSACTION_REPORT_ANALYSIS/assets/148765480/7ab47474-414c-488a-89fc-9ab77c0b7d72">
 
 # 10) What is the total sales of each state made in florida?
-## The following state in Florida with their total sales'Miami', '671208.6600000005','Sarasota', '105090.92000000023','Pensacola', '243321.47000000006','Daytona Beach', '111504.60999999997' and 'Homestead', '36124.439999999966'
+## The following state in Florida with their total sales'Miami' is '671208.6600000005','Sarasota'is '105090.92000000023','Pensacola' is '243321.47000000006','Daytona Beach'is '111504.60999999997' and 'Homestead'is '36124.439999999966'
 <img width="501" alt="image" src="https://github.com/monsurah-jim/RETAIL_TRANSACTION_REPORT_ANALYSIS/assets/148765480/fa53abdb-3652-490e-8a18-0c38adb99c42">
 
 
