@@ -13,7 +13,7 @@
 
 
 # DATA SOURCE
-It was and uncleaned data gotten from kaggle with missing columns.
+It was an uncleaned data gotten from kaggle with missing columns.
 
 # Data Cleaning and Preparation
 I had to clean the data with excel and power query, fill in the columns, create additional row and save it as csv file, before importing it into My sql and also i had to update and replace the $ sign in the order amount column.
